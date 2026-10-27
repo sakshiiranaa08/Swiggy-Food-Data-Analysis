@@ -23,3 +23,5 @@ The dataset contains information about food items, prices, restaurant details, r
 
 ## Key Learnings
 Practiced working with a large dataset, organizing information, analyzing patterns, and presenting results in Excel.
+
+![Swiggy Dashboard](swiggy-dashboard.png)
